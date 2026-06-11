@@ -1,0 +1,26 @@
+{
+  "name": "indian-law-compliance",
+  "version": "0.1.0",
+  "description": "Audits a codebase/application against Indian laws and regulations — DPDP Act, IT Act, CERT-In, RBI, accessibility, sector rules, and business compliance. Hybrid engine: deterministic detectors + AI reasoning. NOT legal advice.",
+  "author": "opensource",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "india-compliance-audit",
+      "path": "skills/india-compliance-audit/SKILL.md",
+      "description": "Full hybrid compliance audit of a project against applicable Indian laws. Run via /india-audit."
+    }
+  ],
+  "commands": [
+    {
+      "name": "india-audit",
+      "path": "commands/india-audit.md",
+      "description": "Run an Indian-law compliance audit. Usage: /india-audit [area] — area is optional (dpdp | cert-in | rbi | accessibility | health | ecommerce | aadhaar | all)."
+    },
+    {
+      "name": "india-checklist",
+      "path": "commands/india-checklist.md",
+      "description": "Interactive Q&A checklist for non-code compliance items (GST, grievance officer, DPO, registrations, insurance)."
+    }
+  ]
+}
