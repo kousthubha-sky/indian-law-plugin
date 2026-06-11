@@ -2,12 +2,15 @@
 id: dpdp-act
 title: Digital Personal Data Protection Act, 2023 + DPDP Rules, 2025
 applies_to: [all]
-status: "Phase 1 active (Nov 2025); Phase 2 active (Nov 2026, Consent Manager); Phase 3 full obligations ~May 2027 — verify current dates at meity.gov.in"
-penalty: "Up to ₹250 crore per breach"
+status: "Phase 2 ACTIVE (Consent Manager Framework, Nov 2026); Phase 3 full obligations ~May 14 2027 — NO grace period. Always verify at meity.gov.in."
+penalty: "Up to ₹250 crore per breach category"
+last_verified: "2026-06-11"
 sources:
   - https://www.meity.gov.in/content/digital-personal-data-protection-act-2023
   - https://www.indiacode.nic.in/handle/123456789/22037
   - https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa
+  - https://www.dpdpa.com/dpdparules.html
+  - https://vakilsearch.com/article/dpdp-act-compliance-checklist-india-startup-2026/
 ---
 
 # DPDP Act 2023 — Obligations
@@ -15,6 +18,21 @@ sources:
 Every app that collects, stores, or processes personal data about Indian residents is a
 **Data Fiduciary** and must comply. "Personal data" means any information that can
 identify a natural person (name, email, phone, IP address, device ID, location, etc.).
+
+## Phase timeline (verify current dates at meity.gov.in before citing)
+
+| Phase | Effective Date | Status (as of Jun 2026) | What goes live |
+|---|---|---|---|
+| **Phase 1** | Nov 14, 2025 | ACTIVE | Data Protection Board of India (DPBI) established; definitions; administrative provisions |
+| **Phase 2** | Nov 13, 2026 | ACTIVE | Consent Manager Framework operational; all Data Fiduciaries must integrate with a registered Consent Manager |
+| **Phase 3** | ~May 14, 2027 | COMING — no grace period | Full substantive obligations: consent & notice, data principal rights (access/correction/erasure/grievance), breach notification (72h), children's data rules, significant data fiduciary requirements |
+
+**Key facts:**
+- DPDP Rules 2025 were notified by MeitY and set out the detailed procedural requirements.
+- The Data Protection Board of India (DPBI) is the enforcement authority — file breach notifications and complaints there.
+- Phase 3 has **no grace period** — non-compliance on day 1 of enforcement attracts full penalties.
+- Penalty schedule: ₹250 crore for breach of data principal rights or security obligations; ₹200 crore for children's data violations; ₹50 crore for failure to notify a breach; ₹10,000 for minor procedural lapses.
+- **DPDP phase dates have shifted before** — always confirm current schedule at meity.gov.in before advising a client.
 
 ---
 
